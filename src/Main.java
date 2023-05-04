@@ -11,6 +11,5 @@ public class Main {
             case TUESDAY -> A_week.TUESDAY.method();
         }
 
-
     }
 }
